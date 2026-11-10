@@ -55,3 +55,4 @@ export const DeleteConfirmation = ({
 };
 
 export default DeleteConfirmation;
+

@@ -368,3 +368,4 @@ Screenshots of the running application are organized under `docs/screenshots/`:
 - **Author:** Sonu Gupta
 - **GitHub:** [https://github.com/sonurocks](https://github.com/sonurocks)
 - **Repository:** [https://github.com/sonurocks/bmdu-employee-management-system](https://github.com/sonurocks/bmdu-employee-management-system)
+

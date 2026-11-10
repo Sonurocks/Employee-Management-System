@@ -20,3 +20,4 @@ export const Loader = ({ message = "Loading..." }) => {
 };
 
 export default Loader;
+

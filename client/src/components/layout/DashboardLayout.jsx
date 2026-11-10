@@ -19,3 +19,4 @@ export const DashboardLayout = ({ children }) => {
 };
 
 export default DashboardLayout;
+
